@@ -7,6 +7,8 @@ body {
 .parent {
     background-color: #23424A;
     padding: 50px;
+
+    width: 900px;
 }
 
 .child {
