@@ -15,6 +15,7 @@ body {
 
 .child {
     background-color: #38Cfd9;
+    width: 50%;
     height: 250px;
 }
 
